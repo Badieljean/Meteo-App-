@@ -1,0 +1,17 @@
+@import url('./reset.css');
+@font-face {
+    font-family: 'Quicksand';
+    src: url('/src/assets/font/Quicksand-Bold.ttf') format('truetype'),
+         url('/src/assets/font/Quicksand-Medium.ttf') format('truetype'),
+         url('/src/assets/font/Quicksand-Regular.ttf') format('truetype'),
+         url('/src/assets/font/Quicksand-SemiBold.ttf') format('truetype'),
+         url('/src/assets/font/Quicksand-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    font-family: 'Quicksand', serif;
+    font-size: 35px;
+}
